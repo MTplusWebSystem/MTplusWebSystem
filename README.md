@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTplusWebSystem&show_icons=true&theme=highcontrast)
+![ Estatística do Dev](https://github-readme-stats.vercel.app/api?username=MTplusWebSystem&show_icons=true&theme=highcontrast)
 
 
 <h1 align="center">Seja muito bem-vindo(a) </h1>
