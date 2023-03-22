@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTplusWebSystem&show_icons=true&theme=highcontrast)
+
+
 <h1 align="center">Seja muito bem-vindo(a) </h1>
 <p align="center">Ao meu repositório! Estou animados para tê-lo(a) como parte da nossa comunidade👋
 </p>
