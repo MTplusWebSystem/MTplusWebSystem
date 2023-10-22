@@ -2,13 +2,12 @@
 <h1 align="center">Seja muito bem-vindo(a) </h1>
 <p align="center">Ao meu repositório! Estou animados para tê-lo(a) como parte da nossa comunidade👋
 </p>
-<!--
-**MTplusWebSystem/MTplusWebSystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
 
-Here are some ideas to get you started:
-<div align="center">
-  <a href="https://github.com/MTplusWebSystem">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MTplusWebSystem&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+![MTplusWebsystem's Stats](https://github-readme-stats.vercel.app/api?username=MTplusWebsystem&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false)
+
+![MTplusWebsystem's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MTplusWebsystem&theme=vision-friendly-dark&hide_border=true)
   
-</a>
-</div>
+![MTplusWebsystem's Mais Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MTplusWebsystem&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+
+</center>
